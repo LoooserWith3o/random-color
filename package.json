@@ -8,10 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.1",
-    "node-random-color": "^0.2.0",
-    "random-hex-color": "^1.0.1",
-    "randomcolor": "^0.6.2",
-    "unicorn": "^0.0.1"
+    "randomcolor": "^0.6.2"
   },
   "devDependencies": {
     "@babel/eslint-parser": "7.17.0",
